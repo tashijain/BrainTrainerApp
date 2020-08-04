@@ -16,5 +16,4 @@ A fun brain training game that lets you compute sum of random numbers and check 
 - Stops the game as timer finishes
 
 Developed in Java using Android Studio
-![App screenshot](correct.png)
-![App screenshot](done.png)
+![App screenshot](brainTrainer2.png)
